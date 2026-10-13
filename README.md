@@ -1,2 +1,6 @@
-# bai_thuc_hanh_01
-Trần Minh Thắng 116417
+Bài 1:
+input : 3 số thực a,b,c
+output : kết luận các nghiệm của ptrinh(vô nghiệm,vô số nghiệm,nghiệm kép,nghiệm đơn)
+example:
+input: '1 5 6'
+output: phuong trinh có 2 nghiem phan bieejt: x1 = -2 , x2 = -3
